@@ -1,0 +1,16 @@
+[1;34mSystem:   [0;37m [1;34mHost:[0;37m e2-standard-2 [1;34mKernel:[0;37m 5.4.0-1051-gcp x86_64 [1;34mbits:[0;37m 64 [1;34mConsole:[0;37m tty 0 [1;34mDistro:[0;37m Ubuntu 18.04.5 LTS[0;37m
+[1;34mMachine:  [0;37m [1;34mDevice:[0;37m kvm [1;34mMobo:[0;37m Google [1;34mmodel:[0;37m Google Compute Engine [1;34mserial:[0;37m N/A [1;34mUEFI:[0;37m Google [1;34mv:[0;37m Google [1;34mdate:[0;37m 01/01/2011[0;37m
+[1;34mCPU:      [0;37m [1;34mSingle core[0;37m Intel Xeon (-MT-) [0;37m[1;34mcache:[0;37m 56320 KB[0;37m
+[1;34m          [0;37m [1;34mclock speeds:[0;37m [1;34mmax:[0;37m 2199 MHz [1;34m1:[0;37m 2199 MHz [1;34m2:[0;37m 2199 MHz[0;37m
+[1;34mGraphics: [0;37m [1;34mCard:[0;37m Failed to Detect Video Card![0;37m
+[1;34m          [0;37m [1;34mDisplay Server:[0;37m N/A [1;34mdriver:[0;37m N/A [1;34mtty size:[0;37m 159x47 [1;34mAdvanced Data:[0;37m N/A out of X[0;37m
+[1;34mNetwork:  [0;37m [1;34mCard:[0;37m Red Hat Virtio network device [1;34mdriver:[0;37m virtio-pci[0;37m
+[1;34m          [0;37m [1;34mIF:[0;37m ens4 [1;34mstate:[0;37m up [1;34mspeed:[0;37m -1 [1;34mduplex:[0;37m unknown [1;34mmac:[0;37m 42:01:0a:96:00:11[0;37m
+[1;34mDrives:   [0;37m [1;34mHDD Total Size:[0;37m 64.4GB (3.2% used)[0;37m
+[1;34m          [0;37m [1;34mID-1:[0;37m /dev/sda [1;34mmodel:[0;37m PersistentDisk [1;34msize:[0;37m 64.4GB[0;37m
+[1;34mPartition:[0;37m [1;34mID-1:[0;37m / [1;34msize:[0;37m 58G [1;34mused:[0;37m 2.0G (4%) [1;34mfs:[0;37m ext4 [1;34mdev:[0;37m /dev/sda1[0;37m
+[1;34mRAID:     [0;37m No RAID devices: /proc/mdstat, md_mod kernel module present[0;37m
+[1;34mSensors:  [0;37m None detected - is lm-sensors installed and configured?[0;37m
+[1;34mInfo:     [0;37m [1;34mProcesses:[0;37m 122 [1;34mUptime:[0;37m 5:45 [1;34mMemory:[0;37m 217.7/7959.0MB [1;34mInit:[0;37m systemd [1;34mrunlevel:[0;37m 5[0;37m
+[1;34m          [0;37m [1;34mClient:[0;37m Shell (bash) [1;34minxi:[0;37m 2.3.56[0;37m [0;37m
+[0m
