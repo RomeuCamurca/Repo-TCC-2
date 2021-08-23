@@ -1,0 +1,17 @@
+System:    Host: D2s-v3-standard Kernel: 5.4.0-1055-azure x86_64 bits: 64 Console: tty 0
+           Distro: Ubuntu 18.04.5 LTS
+Machine:   Device: desktop Mobo: Microsoft model: Virtual Machine v: 7.0 serial: N/A
+           BIOS: American Megatrends v: 090008 date: 12/07/2018
+CPU:       Single core Intel Xeon E5-2673 v4 (-MT-) cache: 51200 KB
+           clock speeds: max: 2294 MHz 1: 2294 MHz 2: 2294 MHz
+Graphics:  Card: Microsoft Hyper-V virtual VGA
+           Display Server: N/A driver: hyperv_fb tty size: 178x47 Advanced Data: N/A out of X
+Network:   Card: Failed to Detect Network Card!
+Drives:    HDD Total Size: 81.6GB (2.2% used)
+           ID-1: /dev/sda model: Virtual_Disk size: 64.4GB
+           ID-2: /dev/sdb model: Virtual_Disk size: 17.2GB
+Partition: ID-1: / size: 58G used: 1.7G (3%) fs: ext4 dev: /dev/sda1
+RAID:      No RAID devices: /proc/mdstat, md_mod kernel module present
+Sensors:   None detected - is lm-sensors installed and configured?
+Info:      Processes: 130 Uptime: 2:37 Memory: 218.3/7962.3MB Init: systemd runlevel: 5
+           Client: Shell (bash) inxi: 2.3.56
