@@ -66,10 +66,6 @@ Exemplos de execução: ./calc-avg-memory.sh results-t2_large/RandMem-t2_large-r
 
 
 
-OBS: SÓ USAR O SCRIPT o does-almost-everything.sh depois de fazer na mão os resultados do tamanho de arquivo 6, visto que existe um parâmetro que 
-possui este valor fixo no does-almost-everything.sh!
-
-QUESTÃO DE SEGURANÇA DOS DADOS E CONTROLE DE EXECUÇÃO DOS SCRIPTS!
 
 ---------does-almost-everything.sh-----------
 Descrição: Esse scrpt é usado basicamente para automatizar a obtenção dos números total e média de cada operação referente a cada tamanho de arquivo, utilizando para este
