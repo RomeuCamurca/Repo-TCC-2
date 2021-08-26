@@ -1,0 +1,119 @@
+OBS: Essa documentação está tomando como base que os scripts listados aqui estão sendo executados no diretório: Repo-TCC-2/RESULTS/memory/
+
+----------script-result-memory-format.sh----------
+
+Execução: ./script-result-memory-format.sh [parâmetro 1] [parâmetro 2]
+
+parâmetro 1 = arquivo de resultados brutos de cada instância.
+
+parâmetro 2 = arquivo formatado pelo script a ser gerado de cada instância no seu devido diretório de resultados.
+
+Exemplo de execução: ./script-result-memory-format.sh results-t2_large/RandMem-t2_large.txt results-t2_large/RandMem-t2_large-result-format.txt
+
+
+
+----------create-folders-the-size-of-the-files.sh----------
+
+Execução: ./create-folders-the-size-of-the-files.sh [parâmetro 1]
+
+parâmetro 1 = Local onde serão criadas as pastas de cada tamanho de arquivo usados no experimento.
+
+Exemplo de execução: ./create-folders-the-size-of-the-files.sh results-t2_large/
+
+
+
+----------calc-avg-memory.sh----------
+
+OBS: Rodar este script depois de rodar com sucesso respectivamente -> 1 script-result-memory-format.s e 2 create-folders-the-size-of-the-files.sh
+
+Execução: ./calc-avg-memory.sh [parâmetro 1] [parâmetro 2] [parâmetro 3] [parâmetro 4] [parâmetro 5]
+
+parâmetro 1 = Arquivo de saída da execução do script-result-memory-format.sh, arquivo este que está na pasta de resultados da instância que estiver sendo tratada no momento.
+    Exemplos:
+        Exemplo 1: results-t2_large/RandMem-t2_large-result-format.txt
+        Exemplo 2: results-t2_xlarge/RandMem-t2_xlarge-result-format.txt
+
+parâmetro 2 = Expressão regular que especifica o tamanho do arquivo em KB a ser tratado na execução em questão. 
+    Exemplos:
+        Exemplo 1: <'^:6:'> 
+        Exemplo 2: <'^:12:'>
+
+parâmetro 3 = Especifica a coluna da operação que está sendo tratada no momento, que pode ir de 3 até 10.
+    Exemplos:
+        Exemplo 1: <3> = Integer -> Serial -> Read
+        Exemplo 2: <4> = Integer -> Serial -> Rd/Wrt
+        Exemplo 3: <5> = Integer -> Random -> Read
+        Exemplo 4: <6> = Integer -> Random -> Rd/Wrt
+
+        Exemplo 5: <7> = Double/Integer -> Serial -> Read
+        Exemplo 6: <8> = Double/Integer -> Serial -> Rd/Wrt
+        Exemplo 7: <9> = Double/Integer -> Random -> Read
+        Exemplo 8: <10> = Double/Integer -> Random -> Rd/Wrt
+
+parâmetro 4 = Localidade e nome do arquivo a ser gerado, referente a soma total da operação especifica que está sendo tratada na execução em questão.
+    Exemplos:
+        Exemplo 1: results-t2_large/file-6/total-t2_large-file-6-Integer-Serial-Read.txt
+        Exemplo 2: results-t2_large/file-12/total-t2_large-file-12-Integer-Serial-Read.txt
+
+parâmetro 5 = Localidade e nome do arquivo a ser gerado contendo a média aritmética das 30 execuções da operação que está sendo tratada no momento, que é referente a um 
+tamanho de arquivo em especifico.
+
+    Exemplos:
+        Exemplo 1: results-t2_large/file-6/avg-t2_large-file-6-Integer-Serial-Read.txt
+        Exemplo 2: results-t2_large/file-12/avg-t2_large-file-12-Integer-Serial-Read.txt
+
+Exemplos de execução: ./calc-avg-memory.sh results-t2_large/RandMem-t2_large-result-format.txt '^:6:' 3 results-t2_large/file-6/total-t2_large-file-6-Integer-Serial-Read.txt results-t2_large/file-6/avg-t2_large-file-6-Integer-Serial-Read.txt
+
+
+
+
+---------does-almost-everything.sh-----------
+Descrição: Esse scrpt é usado basicamente para automatizar a obtenção dos números total e média de cada operação referente a cada tamanho de arquivo, utilizando para este
+proposito o calc-avg-memory.sh.
+
+OBS: Utilizar -> sed -i 's/t2_large/t2_xlarge/g' does-almost-everything.sh Para trocar o nome da instância de forma mais automatizada, 
+evitando o uso explicito do calc-avg-memory.sh e proporcionando o uso continuo do does-almost-everything.sh.
+
+Execução: ./does-almost-everything.sh [parâmetro 1] [parâmetro 2] [parâmetro 3]
+
+parâmetro 1 = Arquivo formatado pelo script-result-memory-format.sh.
+
+Exemplos:
+    Exemplo 1: results-t2_large/RandMem-t2_large-result-format.txt
+    Exemplo 2: results-t2_large/RandMem-t2_xlarge-result-format.txt
+
+parâmetro 2 = Expressão regular que expressa o tamanho do arquivo, que está sendo tratado os seus resultados de cada operação referente a ele.
+
+OBS: Não pode ser 6! Tem que ser de 12 para cima.
+
+Exemplos:
+    Exemplo 1: '^:12:'
+    Exemplo 2: '^:24:'
+
+parâmetro 3 = Número do tamanho do arquivo que está sendo tratado no momento da execução deste script.
+
+Exemplos:
+    Exemplo 1: 12
+    Exemplo 2: 24
+    Exemplo 3: 49152
+
+Exemplo de execução: ./does-almost-everything.sh results-t2_large/RandMem-t2_large-result-format.txt '^:96:' 96
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
