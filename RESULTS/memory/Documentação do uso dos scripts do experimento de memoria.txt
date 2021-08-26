@@ -65,4 +65,53 @@ tamanho de arquivo em especifico.
 Exemplos de execução: ./calc-avg-memory.sh results-t2_large/RandMem-t2_large-result-format.txt '^:6:' 3 results-t2_large/file-6/total-t2_large-file-6-Integer-Serial-Read.txt results-t2_large/file-6/avg-t2_large-file-6-Integer-Serial-Read.txt
 
 
+
+OBS: SÓ USAR O SCRIPT o does-almost-everything.sh depois de fazer na mão os resultados do tamanho de arquivo 6, visto que existe um parâmetro que 
+possui este valor fixo no does-almost-everything.sh!
+
+QUESTÃO DE SEGURANÇA DOS DADOS E CONTROLE DE EXECUÇÃO DOS SCRIPTS!
+
+---------does-almost-everything.sh-----------
+Descrição: Esse scrpt é usado basicamente para automatizar a obtenção dos números total e média de cada operação referente a cada tamanho de arquivo, utilizando para este
+proposito o calc-avg-memory.sh.
+
+Execução: ./does-almost-everything.sh [parâmetro 1] [parâmetro 2] [parâmetro 3]
+
+parâmetro 1 = Arquivo formatado pelo script-result-memory-format.sh.
+
+Exemplos:
+    Exemplo 1: results-t2_large/RandMem-t2_large-result-format.txt
+    Exemplo 2: results-t2_large/RandMem-t2_xlarge-result-format.txt
+
+parâmetro 2 = Expressão regular que expressa o tamanho do arquivo, que está sendo tratado os seus resultados de cada operação referente a ele.
+
+OBS: Não pode ser 6! Tem que ser de 12 para cima.
+
+Exemplos:
+    Exemplo 1: '^:12:'
+    Exemplo 2: '^:24:'
+
+parâmetro 3 = Número do tamanho do arquivo que está sendo tratado no momento da execução deste script.
+
+Exemplos:
+    Exemplo 1: 12
+    Exemplo 2: 24
+    Exemplo 3: 49152
+
+Exemplo de execução: ./does-almost-everything.sh results-t2_large/RandMem-t2_large-result-format.txt '^:96:' 96
+
+OBS: Utilizar -> sed -i 's/t2_large/t2_xlarge/g' does-almost-everything.sh para trocar o nome da instância de forma mais automatizada, 
+evitando o uso explicito do calc-avg-memory.sh e proporcionando o uso continuo do does-almost-everything.sh.
+
+
+
+
+
+
+
+
+
    
+
+
+
