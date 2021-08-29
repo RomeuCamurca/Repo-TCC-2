@@ -144,18 +144,3 @@ Parâmetro 4 = Nome da operação em si.
 
 Exemplo de execução: ./helps-to-consolidate-results.sh t2_xlarge Double_Integer Random Rd_Wrt
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
