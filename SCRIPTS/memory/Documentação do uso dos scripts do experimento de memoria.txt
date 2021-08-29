@@ -4,11 +4,19 @@ OBS: Essa documentação está tomando como base que os scripts listados aqui es
 
 Execução: ./script-result-memory-format.sh [parâmetro 1] [parâmetro 2]
 
-parâmetro 1 = arquivo de resultados brutos de cada instância.
+Parâmetro 1 = Arquivo de resultados brutos de cada instância.
 
-parâmetro 2 = arquivo formatado pelo script a ser gerado de cada instância no seu devido diretório de resultados.
+    Exemplos: 
+        Exemplo 1: results-e2-standard-2/RandMem-e2-standard-2.txt
+        Exemplo 2: results-e2-standard-4/RandMem-e2-standard-4.txt
 
-Exemplo de execução: ./script-result-memory-format.sh results-t2_large/RandMem-t2_large.txt results-t2_large/RandMem-t2_large-result-format.txt
+Parâmetro 2 = Arquivo a ser gerado pelo script em questão no devido diretório de resultados de cada instância.
+
+    Exemplos:
+        Exemplo 1: results-e2-standard-2/RandMem-e2-standard-2-result-format.txt
+        Exemplo 2: results-e2-standard-4/RandMem-e2-standard-4-result-format.txt
+
+Exemplo de execução: ./script-result-memory-format.sh results-e2-standard-2/RandMem-e2-standard-2.txt results-e2-standard-2/RandMem-e2-standard-2-result-format.txt
 
 
 
@@ -16,9 +24,13 @@ Exemplo de execução: ./script-result-memory-format.sh results-t2_large/RandMem
 
 Execução: ./create-folders-the-size-of-the-files.sh [parâmetro 1]
 
-parâmetro 1 = Local onde serão criadas as pastas de cada tamanho de arquivo usados no experimento.
+Parâmetro 1 = Local onde serão criadas as pastas de cada tamanho de arquivo usados no experimento.
 
-Exemplo de execução: ./create-folders-the-size-of-the-files.sh results-t2_large/
+    Exemplos:
+        Exemplo 1: results-e2-standard-2/
+        Exemplo 2: results-e2-standard-4/
+
+Exemplo de execução: ./create-folders-the-size-of-the-files.sh results-e2-standard-2/
 
 
 
@@ -28,17 +40,17 @@ OBS: Rodar este script depois de rodar com sucesso respectivamente -> 1 script-r
 
 Execução: ./calc-avg-memory.sh [parâmetro 1] [parâmetro 2] [parâmetro 3] [parâmetro 4] [parâmetro 5]
 
-parâmetro 1 = Arquivo de saída da execução do script-result-memory-format.sh, arquivo este que está na pasta de resultados da instância que estiver sendo tratada no momento.
+Parâmetro 1 = Arquivo de saída da execução do script-result-memory-format.sh, arquivo este que está na pasta de resultados da instância que estiver sendo tratada no momento.
     Exemplos:
         Exemplo 1: results-t2_large/RandMem-t2_large-result-format.txt
         Exemplo 2: results-t2_xlarge/RandMem-t2_xlarge-result-format.txt
 
-parâmetro 2 = Expressão regular que especifica o tamanho do arquivo em KB a ser tratado na execução em questão. 
+Parâmetro 2 = Expressão regular que especifica o tamanho do arquivo em KB a ser tratado na execução em questão. 
     Exemplos:
         Exemplo 1: <'^:6:'> 
         Exemplo 2: <'^:12:'>
 
-parâmetro 3 = Especifica a coluna da operação que está sendo tratada no momento, que pode ir de 3 até 10.
+Parâmetro 3 = Especifica a coluna da operação que está sendo tratada no momento, que pode ir de 3 até 10.
     Exemplos:
         Exemplo 1: <3> = Integer -> Serial -> Read
         Exemplo 2: <4> = Integer -> Serial -> Rd/Wrt
@@ -50,64 +62,85 @@ parâmetro 3 = Especifica a coluna da operação que está sendo tratada no mome
         Exemplo 7: <9> = Double/Integer -> Random -> Read
         Exemplo 8: <10> = Double/Integer -> Random -> Rd/Wrt
 
-parâmetro 4 = Localidade e nome do arquivo a ser gerado, referente a soma total da operação especifica que está sendo tratada na execução em questão.
+Parâmetro 4 = Localidade e nome do arquivo a ser gerado, referente a soma total da operação especifica que está sendo tratada na execução em questão.
     Exemplos:
         Exemplo 1: results-t2_large/file-6/total-t2_large-file-6-Integer-Serial-Read.txt
         Exemplo 2: results-t2_large/file-12/total-t2_large-file-12-Integer-Serial-Read.txt
 
-parâmetro 5 = Localidade e nome do arquivo a ser gerado contendo a média aritmética das 30 execuções da operação que está sendo tratada no momento, que é referente a um 
+Parâmetro 5 = Localidade e nome do arquivo a ser gerado contendo a média aritmética das 30 execuções da operação que está sendo tratada no momento, que é referente a um 
 tamanho de arquivo em especifico.
 
     Exemplos:
         Exemplo 1: results-t2_large/file-6/avg-t2_large-file-6-Integer-Serial-Read.txt
         Exemplo 2: results-t2_large/file-12/avg-t2_large-file-12-Integer-Serial-Read.txt
 
-Exemplos de execução: ./calc-avg-memory.sh results-t2_large/RandMem-t2_large-result-format.txt '^:6:' 3 results-t2_large/file-6/total-t2_large-file-6-Integer-Serial-Read.txt results-t2_large/file-6/avg-t2_large-file-6-Integer-Serial-Read.txt
-
+Exemplo de execução: ./calc-avg-memory.sh results-t2_large/RandMem-t2_large-result-format.txt '^:6:' 3 results-t2_large/file-6/total-t2_large-file-6-Integer-Serial-Read.txt results-t2_large/file-6/avg-t2_large-file-6-Integer-Serial-Read.txt
 
 
 
 ---------does-almost-everything.sh-----------
+OBS: Utilizar -> sed -i 's/t2_large/t2_xlarge/g' does-almost-everything.sh Para trocar o nome da instância de forma mais automatizada, 
+evitando o uso explicito do calc-avg-memory.sh e proporcionando o uso continuo do does-almost-everything.sh.
+
 Descrição: Esse scrpt é usado basicamente para automatizar a obtenção dos números total e média de cada operação referente a cada tamanho de arquivo, utilizando para este
 proposito o calc-avg-memory.sh.
 
 Execução: ./does-almost-everything.sh [parâmetro 1] [parâmetro 2] [parâmetro 3]
 
-parâmetro 1 = Arquivo formatado pelo script-result-memory-format.sh.
+Parâmetro 1 = Arquivo formatado pelo script-result-memory-format.sh.
 
-Exemplos:
-    Exemplo 1: results-t2_large/RandMem-t2_large-result-format.txt
-    Exemplo 2: results-t2_large/RandMem-t2_xlarge-result-format.txt
+    Exemplos:
+        Exemplo 1: results-t2_large/RandMem-t2_large-result-format.txt
+        Exemplo 2: results-t2_large/RandMem-t2_xlarge-result-format.txt
 
-parâmetro 2 = Expressão regular que expressa o tamanho do arquivo, que está sendo tratado os seus resultados de cada operação referente a ele.
+Parâmetro 2 = Expressão regular que expressa o tamanho do arquivo, que está sendo tratado os seus resultados de cada operação referente a ele.
 
-OBS: Não pode ser 6! Tem que ser de 12 para cima.
+    Exemplos:
+        Exemplo 1: '^:12:'
+        Exemplo 2: '^:24:'
 
-Exemplos:
-    Exemplo 1: '^:12:'
-    Exemplo 2: '^:24:'
+Parâmetro 3 = Número do tamanho do arquivo que está sendo tratado no momento da execução deste script.
 
-parâmetro 3 = Número do tamanho do arquivo que está sendo tratado no momento da execução deste script.
+    OBS: Deve ser o mesmo valor presente na expressão regular do parâmetro 2!
 
-Exemplos:
-    Exemplo 1: 12
-    Exemplo 2: 24
-    Exemplo 3: 49152
+    Exemplos:
+        Exemplo 1: 12
+        Exemplo 2: 24
 
 Exemplo de execução: ./does-almost-everything.sh results-t2_large/RandMem-t2_large-result-format.txt '^:96:' 96
 
-OBS: Utilizar -> sed -i 's/t2_large/t2_xlarge/g' does-almost-everything.sh para trocar o nome da instância de forma mais automatizada, 
-evitando o uso explicito do calc-avg-memory.sh e proporcionando o uso continuo do does-almost-everything.sh.
 
 
+---------helps-to-consolidate-results.sh-----------
+Descrição: Ajuda a consolidar os resultados nos gráficos de forma mais rápida e confiável através dos parâmetros passados.
 
+Execução: ./helps-to-consolidate-results.sh [parâmetro 1] [parâmetro 2] [parâmetro 3] [parâmetro 4]
 
+Parâmetro 1 = Nome da máquina.
 
+    Exemplos:
 
+        Exemplo 1: e2-standard-2
+        Exemplo 2: e2-standard-4
 
+Parâmetro 2 = Nome da forma de acesso a dados.
 
+    Exemplos:
+        Exemplo 1: Integer
+        Exemplo 2: Double_Integer
 
-   
+Parâmetro 3 = Nome do tipo de operação.
 
+    Exemplos:
+        Exemplo 1: Serial
+        Exemplo 2: Random
 
+Parâmetro 4 = Nome da operação em si.
+
+    Exemplos:
+
+        Exemplo 1: Read
+        Exemplo 2: Rd_Wrt
+
+Exemplo de execução: ./helps-to-consolidate-results.sh t2_xlarge Double_Integer Random Rd_Wrt
 
