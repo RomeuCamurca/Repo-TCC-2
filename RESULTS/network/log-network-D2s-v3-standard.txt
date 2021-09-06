@@ -1,0 +1,1050 @@
+------------------------------------ÍNICIO DA EXECUÇÃO 1------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 47736 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.12 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.12 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.19 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.82 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 1--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 2------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 47970 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   557 MBytes   111 MBytes/sec    0   1.15 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.23 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.23 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.23 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.86 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.86 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.86 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.87 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 2--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 3------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 48342 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.26 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.33 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.39 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.39 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  50.00-55.00  sec   551 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.09 MBytes       
+[  4] 110.00-115.00 sec   549 MBytes   110 MBytes/sec  110   2.80 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.80 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec  110             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 3--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 4------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 48648 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0    989 KBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.15 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.22 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.22 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.22 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.22 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.90 MBytes       
+[  4]  75.00-80.00  sec   546 MBytes   109 MBytes/sec  176   2.13 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.13 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec  176             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 4--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 5------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 48916 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   111 MBytes/sec    0   1.21 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.28 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.28 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 5--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 6------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 49170 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.04 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.19 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.50 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.50 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.47 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 6--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 7------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 49466 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.04 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.10 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.39 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.39 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.39 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.39 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.39 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.07 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 7--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 8------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 49814 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.05 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.17 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.24 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.78 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 8--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 9------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 50096 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.24 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.37 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.37 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.37 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.37 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.37 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.08 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 9--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 10------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 50334 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0    894 KBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.09 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.14 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.14 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 10--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 11------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 50574 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1019 KBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.16 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.16 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 11--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 12------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 50838 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.00 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.12 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.12 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.63 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.88 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 12--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 13------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 51070 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.07 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 13--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 14------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 51352 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.26 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.33 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.33 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.74 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.74 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.74 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.74 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.70 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 14--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 15------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 51598 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.13 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.19 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.19 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.32 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 15--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 16------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 51840 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.19 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.25 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.33 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.97 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 16--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 17------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 52076 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0    979 KBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.19 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.24 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.24 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 17--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 18------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 52342 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.10 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.29 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.44 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.16 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 18--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 19------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 52584 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0    983 KBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.19 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.04 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 19--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 20------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 52814 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.06 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.23 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec  237   1.01 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.32 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.43 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.45 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.45 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.45 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.45 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.25 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec  237             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 20--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 21------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 53054 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.04 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.10 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.17 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.17 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.60 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 21--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 22------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 53292 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   557 MBytes   111 MBytes/sec    0   1.15 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.34 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.41 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.41 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 22--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 23------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 53612 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.19 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.32 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.43 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.18 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 23--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 24------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 53860 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.19 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.91 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.94 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 24--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 25------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 54148 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   554 MBytes   111 MBytes/sec    0   1.65 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.73 MBytes       
+[  4]  45.00-50.00  sec   545 MBytes   109 MBytes/sec  158   2.10 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.10 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   3.14 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   3.14 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   3.14 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   3.14 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   3.14 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec  158             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 25--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 26------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 54404 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.01 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.18 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.18 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.76 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 26--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 27------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 54662 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.15 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.28 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.38 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.38 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.64 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.64 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   2.44 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 27--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 28------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 54902 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   558 MBytes   112 MBytes/sec    0   1.00 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.17 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.17 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  35.00-40.00  sec   549 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  40.00-45.00  sec   551 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.75 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   2.63 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   2.63 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   2.63 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   2.63 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   2.63 MBytes       
+[  4]  85.00-90.00  sec   549 MBytes   110 MBytes/sec    0   2.63 MBytes       
+[  4]  90.00-95.00  sec   552 MBytes   110 MBytes/sec    0   2.63 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   4.05 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   4.05 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   4.05 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   4.05 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   4.05 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 28--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 29------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 55140 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   557 MBytes   111 MBytes/sec    0   1.13 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.94 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 29--------------------------------------------
+------------------------------------ÍNICIO DA EXECUÇÃO 30------------------------------------------
+Connecting to host 10.1.0.4, port 5201
+[  4] local 10.1.0.5 port 55378 connected to 10.1.0.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-5.00   sec   557 MBytes   111 MBytes/sec    0   1.14 MBytes       
+[  4]   5.00-10.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  10.00-15.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  15.00-20.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  20.00-25.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  25.00-30.00  sec   550 MBytes   110 MBytes/sec    0   1.26 MBytes       
+[  4]  30.00-35.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  35.00-40.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  40.00-45.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  45.00-50.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  50.00-55.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  55.00-60.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  60.00-65.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  65.00-70.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  70.00-75.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  75.00-80.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  80.00-85.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  85.00-90.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  90.00-95.00  sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4]  95.00-100.00 sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4] 100.00-105.00 sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4] 105.00-110.00 sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4] 110.00-115.00 sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+[  4] 115.00-120.00 sec   550 MBytes   110 MBytes/sec    0   1.93 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec    0             sender
+[  4]   0.00-120.00 sec  12.9 GBytes   110 MBytes/sec                  receiver
+
+iperf Done.
+-------------------------------------FIM DA EXECUÇÃO 30--------------------------------------------
