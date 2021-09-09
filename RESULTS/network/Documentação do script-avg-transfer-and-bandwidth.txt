@@ -1,0 +1,19 @@
+OBS: Essa documentação está tomando como base que o script listado aqui está sendo executado no diretório: Repo-TCC-2/RESULTS/network/
+
+----------script-avg-transfer-and-bandwidth.sh----------
+Execução: ./script-avg-transfer-and-bandwidth.sh [parâmetro 1] [parâmetro 2]
+
+Parâmetro 1 = Arquivo de log de resultados da instância a ser tratada.
+
+    Exemplos: 
+        Exemplo 1: log-network-e2-standard-2.txt
+        Exemplo 2: log-network-e2-standard-4.txt
+
+Parâmetro 2 = Nome da instância a ser tratada.
+
+    Exemplos:
+        Exemplo 1: e2-standard-2.
+        Exemplo 2: e2-standard-4.
+
+Exemplo de execução: ./script-avg-transfer-and-bandwidth.sh log-network-e2-standard-2.txt e2-standard-2
+
