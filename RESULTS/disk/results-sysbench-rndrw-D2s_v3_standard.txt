@@ -7,8 +7,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -22,28 +22,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      364.99
-    writes/s:                     243.33
-    fsyncs/s:                     778.45
+    reads/s:                      608.98
+    writes/s:                     406.00
+    fsyncs/s:                     1298.68
 
 Throughput:
-    read, MiB/s:                  5.70
-    written, MiB/s:               3.80
+    read, MiB/s:                  9.52
+    written, MiB/s:               6.34
 
 General statistics:
     total time:                          120.0003s
-    total number of events:              166416
+    total number of events:              277645
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.44
-         max:                                145.23
-         95th percentile:                      5.99
-         sum:                             239798.92
+         avg:                                  0.86
+         max:                                867.76
+         95th percentile:                      3.49
+         sum:                             239646.46
 
 Threads fairness:
-    events (avg/stddev):           83208.0000/17.00
-    execution time (avg/stddev):   119.8995/0.00
+    events (avg/stddev):           138822.5000/243.50
+    execution time (avg/stddev):   119.8232/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 1--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 2------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -54,8 +55,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -69,28 +70,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      366.45
-    writes/s:                     244.30
-    fsyncs/s:                     781.55
+    reads/s:                      605.48
+    writes/s:                     403.65
+    fsyncs/s:                     1290.81
 
 Throughput:
-    read, MiB/s:                  5.73
-    written, MiB/s:               3.82
+    read, MiB/s:                  9.46
+    written, MiB/s:               6.31
 
 General statistics:
-    total time:                          120.0121s
-    total number of events:              167098
+    total time:                          120.0023s
+    total number of events:              276003
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.44
-         max:                                 92.54
-         95th percentile:                      5.88
-         sum:                             239829.20
+         avg:                                  0.87
+         max:                                 78.88
+         95th percentile:                      3.55
+         sum:                             239629.36
 
 Threads fairness:
-    events (avg/stddev):           83549.0000/771.00
-    execution time (avg/stddev):   119.9146/0.00
+    events (avg/stddev):           138001.5000/160.50
+    execution time (avg/stddev):   119.8147/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 2--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 3------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -101,8 +103,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -116,28 +118,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      354.99
-    writes/s:                     236.66
-    fsyncs/s:                     756.84
+    reads/s:                      610.93
+    writes/s:                     407.30
+    fsyncs/s:                     1302.34
 
 Throughput:
-    read, MiB/s:                  5.55
-    written, MiB/s:               3.70
+    read, MiB/s:                  9.55
+    written, MiB/s:               6.36
 
 General statistics:
-    total time:                          120.0006s
-    total number of events:              161822
+    total time:                          120.0100s
+    total number of events:              278497
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.48
-         max:                                135.74
-         95th percentile:                      6.09
-         sum:                             239808.47
+         avg:                                  0.86
+         max:                                 91.44
+         95th percentile:                      3.49
+         sum:                             239641.23
 
 Threads fairness:
-    events (avg/stddev):           80911.0000/297.00
-    execution time (avg/stddev):   119.9042/0.00
+    events (avg/stddev):           139248.5000/166.50
+    execution time (avg/stddev):   119.8206/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 3--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 4------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -148,8 +151,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -163,28 +166,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      364.99
-    writes/s:                     243.32
-    fsyncs/s:                     777.87
+    reads/s:                      623.99
+    writes/s:                     415.99
+    fsyncs/s:                     1330.20
 
 Throughput:
-    read, MiB/s:                  5.70
-    written, MiB/s:               3.80
+    read, MiB/s:                  9.75
+    written, MiB/s:               6.50
 
 General statistics:
-    total time:                          120.0019s
-    total number of events:              166348
+    total time:                          120.0002s
+    total number of events:              284427
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.44
-         max:                                492.88
-         95th percentile:                      5.77
-         sum:                             239803.80
+         avg:                                  0.84
+         max:                                 41.86
+         95th percentile:                      3.43
+         sum:                             239645.71
 
 Threads fairness:
-    events (avg/stddev):           83174.0000/792.00
-    execution time (avg/stddev):   119.9019/0.00
+    events (avg/stddev):           142213.5000/451.50
+    execution time (avg/stddev):   119.8229/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 4--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 5------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -195,8 +199,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -210,28 +214,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      401.48
-    writes/s:                     267.66
-    fsyncs/s:                     855.55
+    reads/s:                      617.49
+    writes/s:                     411.66
+    fsyncs/s:                     1316.63
 
 Throughput:
-    read, MiB/s:                  6.27
-    written, MiB/s:               4.18
+    read, MiB/s:                  9.65
+    written, MiB/s:               6.43
 
 General statistics:
-    total time:                          120.0035s
-    total number of events:              182971
+    total time:                          120.0004s
+    total number of events:              281499
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.31
-         max:                                 86.18
-         95th percentile:                      4.82
-         sum:                             239789.25
+         avg:                                  0.85
+         max:                                721.83
+         95th percentile:                      3.49
+         sum:                             239618.17
 
 Threads fairness:
-    events (avg/stddev):           91485.5000/5.50
-    execution time (avg/stddev):   119.8946/0.00
+    events (avg/stddev):           140749.5000/0.50
+    execution time (avg/stddev):   119.8091/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 5--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 6------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -242,8 +247,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -257,28 +262,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      443.98
-    writes/s:                     295.99
-    fsyncs/s:                     946.58
+    reads/s:                      611.48
+    writes/s:                     407.66
+    fsyncs/s:                     1304.41
 
 Throughput:
-    read, MiB/s:                  6.94
-    written, MiB/s:               4.62
+    read, MiB/s:                  9.55
+    written, MiB/s:               6.37
 
 General statistics:
-    total time:                          120.0039s
-    total number of events:              202395
+    total time:                          120.0013s
+    total number of events:              278834
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.18
-         max:                                111.81
-         95th percentile:                      4.18
-         sum:                             239774.71
+         avg:                                  0.86
+         max:                                 57.81
+         95th percentile:                      3.49
+         sum:                             239631.09
 
 Threads fairness:
-    events (avg/stddev):           101197.5000/105.50
-    execution time (avg/stddev):   119.8874/0.00
+    events (avg/stddev):           139417.0000/25.00
+    execution time (avg/stddev):   119.8155/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 6--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 7------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -289,8 +295,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -304,28 +310,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      439.48
-    writes/s:                     292.99
-    fsyncs/s:                     937.01
+    reads/s:                      620.99
+    writes/s:                     413.99
+    fsyncs/s:                     1324.02
 
 Throughput:
-    read, MiB/s:                  6.87
-    written, MiB/s:               4.58
+    read, MiB/s:                  9.70
+    written, MiB/s:               6.47
 
 General statistics:
-    total time:                          120.0026s
-    total number of events:              200346
+    total time:                          120.0005s
+    total number of events:              283086
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.20
-         max:                                 80.70
-         95th percentile:                      4.25
-         sum:                             239777.08
+         avg:                                  0.85
+         max:                                143.33
+         95th percentile:                      3.43
+         sum:                             239628.26
 
 Threads fairness:
-    events (avg/stddev):           100173.0000/105.00
-    execution time (avg/stddev):   119.8885/0.00
+    events (avg/stddev):           141543.0000/254.00
+    execution time (avg/stddev):   119.8141/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 7--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 8------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -336,8 +343,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -351,28 +358,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      427.98
-    writes/s:                     285.32
-    fsyncs/s:                     912.33
+    reads/s:                      614.48
+    writes/s:                     409.65
+    fsyncs/s:                     1310.08
 
 Throughput:
-    read, MiB/s:                  6.69
-    written, MiB/s:               4.46
+    read, MiB/s:                  9.60
+    written, MiB/s:               6.40
 
 General statistics:
-    total time:                          120.0018s
-    total number of events:              195084
+    total time:                          120.0015s
+    total number of events:              280115
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.23
-         max:                                113.78
-         95th percentile:                      4.25
-         sum:                             239776.27
+         avg:                                  0.86
+         max:                                 80.46
+         95th percentile:                      3.49
+         sum:                             239627.06
 
 Threads fairness:
-    events (avg/stddev):           97542.0000/125.00
-    execution time (avg/stddev):   119.8881/0.00
+    events (avg/stddev):           140057.5000/118.50
+    execution time (avg/stddev):   119.8135/0.01
+
 -------------------------------------FIM DA EXECUÇÃO 8--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 9------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -383,8 +391,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -398,28 +406,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      425.46
-    writes/s:                     283.64
-    fsyncs/s:                     906.96
+    reads/s:                      600.48
+    writes/s:                     400.32
+    fsyncs/s:                     1281.01
 
 Throughput:
-    read, MiB/s:                  6.65
-    written, MiB/s:               4.43
+    read, MiB/s:                  9.38
+    written, MiB/s:               6.26
 
 General statistics:
-    total time:                          120.0033s
-    total number of events:              193945
+    total time:                          120.0014s
+    total number of events:              273826
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.24
-         max:                                 99.54
-         95th percentile:                      4.33
-         sum:                             239786.35
+         avg:                                  0.88
+         max:                               1154.34
+         95th percentile:                      3.49
+         sum:                             239649.65
 
 Threads fairness:
-    events (avg/stddev):           96972.5000/557.50
-    execution time (avg/stddev):   119.8932/0.00
+    events (avg/stddev):           136913.0000/102.00
+    execution time (avg/stddev):   119.8248/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 9--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 10------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -430,8 +439,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -445,28 +454,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      424.48
-    writes/s:                     282.99
-    fsyncs/s:                     904.65
+    reads/s:                      620.98
+    writes/s:                     413.99
+    fsyncs/s:                     1324.30
 
 Throughput:
-    read, MiB/s:                  6.63
-    written, MiB/s:               4.42
+    read, MiB/s:                  9.70
+    written, MiB/s:               6.47
 
 General statistics:
-    total time:                          120.0015s
-    total number of events:              193462
+    total time:                          120.0008s
+    total number of events:              283120
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.24
-         max:                                128.79
-         95th percentile:                      4.25
-         sum:                             239774.79
+         avg:                                  0.85
+         max:                                 91.26
+         95th percentile:                      3.43
+         sum:                             239623.70
 
 Threads fairness:
-    events (avg/stddev):           96731.0000/107.00
-    execution time (avg/stddev):   119.8874/0.00
+    events (avg/stddev):           141560.0000/156.00
+    execution time (avg/stddev):   119.8119/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 10--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 11------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -477,8 +487,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -492,28 +502,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      427.48
-    writes/s:                     284.99
-    fsyncs/s:                     911.09
+    reads/s:                      613.46
+    writes/s:                     408.97
+    fsyncs/s:                     1307.87
 
 Throughput:
-    read, MiB/s:                  6.68
-    written, MiB/s:               4.45
+    read, MiB/s:                  9.59
+    written, MiB/s:               6.39
 
 General statistics:
-    total time:                          120.0038s
-    total number of events:              194836
+    total time:                          120.0025s
+    total number of events:              279655
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.23
-         max:                                 66.94
-         95th percentile:                      4.25
-         sum:                             239784.98
+         avg:                                  0.86
+         max:                                 45.19
+         95th percentile:                      3.49
+         sum:                             239658.18
 
 Threads fairness:
-    events (avg/stddev):           97418.0000/165.00
-    execution time (avg/stddev):   119.8925/0.00
+    events (avg/stddev):           139827.5000/201.50
+    execution time (avg/stddev):   119.8291/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 11--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 12------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -524,8 +535,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -539,28 +550,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      361.47
-    writes/s:                     240.98
-    fsyncs/s:                     770.09
+    reads/s:                      608.49
+    writes/s:                     405.66
+    fsyncs/s:                     1297.06
 
 Throughput:
-    read, MiB/s:                  5.65
-    written, MiB/s:               3.77
+    read, MiB/s:                  9.51
+    written, MiB/s:               6.34
 
 General statistics:
-    total time:                          120.0081s
-    total number of events:              164718
+    total time:                          120.0005s
+    total number of events:              277351
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.46
-         max:                                578.33
-         95th percentile:                      5.47
-         sum:                             239809.03
+         avg:                                  0.86
+         max:                                641.34
+         95th percentile:                      3.49
+         sum:                             239645.86
 
 Threads fairness:
-    events (avg/stddev):           82359.0000/239.00
-    execution time (avg/stddev):   119.9045/0.00
+    events (avg/stddev):           138675.5000/226.50
+    execution time (avg/stddev):   119.8229/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 12--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 13------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -571,8 +583,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -586,28 +598,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      357.49
-    writes/s:                     238.33
-    fsyncs/s:                     761.95
+    reads/s:                      619.98
+    writes/s:                     413.32
+    fsyncs/s:                     1321.99
 
 Throughput:
-    read, MiB/s:                  5.59
-    written, MiB/s:               3.72
+    read, MiB/s:                  9.69
+    written, MiB/s:               6.46
 
 General statistics:
-    total time:                          120.0004s
-    total number of events:              162937
+    total time:                          120.0013s
+    total number of events:              282644
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.47
-         max:                                 95.28
-         95th percentile:                      5.77
-         sum:                             239804.56
+         avg:                                  0.85
+         max:                                284.17
+         95th percentile:                      3.49
+         sum:                             239641.21
 
 Threads fairness:
-    events (avg/stddev):           81468.5000/282.50
-    execution time (avg/stddev):   119.9023/0.00
+    events (avg/stddev):           141322.0000/128.00
+    execution time (avg/stddev):   119.8206/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 13--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 14------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -618,8 +631,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -633,28 +646,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      355.49
-    writes/s:                     236.99
-    fsyncs/s:                     758.00
+    reads/s:                      610.99
+    writes/s:                     407.33
+    fsyncs/s:                     1303.22
 
 Throughput:
-    read, MiB/s:                  5.55
-    written, MiB/s:               3.70
+    read, MiB/s:                  9.55
+    written, MiB/s:               6.36
 
 General statistics:
-    total time:                          120.0023s
-    total number of events:              162063
+    total time:                          120.0002s
+    total number of events:              278589
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.48
-         max:                                428.18
-         95th percentile:                      5.67
-         sum:                             239800.36
+         avg:                                  0.86
+         max:                                 72.60
+         95th percentile:                      3.55
+         sum:                             239638.13
 
 Threads fairness:
-    events (avg/stddev):           81031.5000/159.50
-    execution time (avg/stddev):   119.9002/0.00
+    events (avg/stddev):           139294.5000/516.50
+    execution time (avg/stddev):   119.8191/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 14--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 15------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -665,8 +679,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -680,28 +694,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      346.49
-    writes/s:                     230.99
-    fsyncs/s:                     738.70
+    reads/s:                      620.98
+    writes/s:                     413.99
+    fsyncs/s:                     1324.01
 
 Throughput:
-    read, MiB/s:                  5.41
-    written, MiB/s:               3.61
+    read, MiB/s:                  9.70
+    written, MiB/s:               6.47
 
 General statistics:
-    total time:                          120.0010s
-    total number of events:              157947
+    total time:                          120.0016s
+    total number of events:              283086
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.52
-         max:                                118.91
-         95th percentile:                      6.09
-         sum:                             239814.37
+         avg:                                  0.85
+         max:                                 50.93
+         95th percentile:                      3.49
+         sum:                             239609.95
 
 Threads fairness:
-    events (avg/stddev):           78973.5000/511.50
-    execution time (avg/stddev):   119.9072/0.00
+    events (avg/stddev):           141543.0000/81.00
+    execution time (avg/stddev):   119.8050/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 15--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 16------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -712,8 +727,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -727,28 +742,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      345.49
-    writes/s:                     230.33
-    fsyncs/s:                     736.06
+    reads/s:                      624.47
+    writes/s:                     416.31
+    fsyncs/s:                     1331.66
 
 Throughput:
-    read, MiB/s:                  5.40
-    written, MiB/s:               3.60
+    read, MiB/s:                  9.76
+    written, MiB/s:               6.50
 
 General statistics:
-    total time:                          120.0003s
-    total number of events:              157430
+    total time:                          120.0038s
+    total number of events:              284707
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.52
-         max:                                196.76
-         95th percentile:                      5.88
-         sum:                             239807.55
+         avg:                                  0.84
+         max:                                 95.32
+         95th percentile:                      3.43
+         sum:                             239643.75
 
 Threads fairness:
-    events (avg/stddev):           78715.0000/218.00
-    execution time (avg/stddev):   119.9038/0.00
+    events (avg/stddev):           142353.5000/27.50
+    execution time (avg/stddev):   119.8219/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 16--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 17------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -759,8 +775,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -774,28 +790,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      344.99
-    writes/s:                     229.99
-    fsyncs/s:                     735.58
+    reads/s:                      624.48
+    writes/s:                     416.32
+    fsyncs/s:                     1331.45
 
 Throughput:
-    read, MiB/s:                  5.39
-    written, MiB/s:               3.59
+    read, MiB/s:                  9.76
+    written, MiB/s:               6.50
 
 General statistics:
-    total time:                          120.0027s
-    total number of events:              157273
+    total time:                          120.0023s
+    total number of events:              284680
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.52
-         max:                                 67.61
-         95th percentile:                      5.88
-         sum:                             239820.15
+         avg:                                  0.84
+         max:                                117.05
+         95th percentile:                      3.49
+         sum:                             239621.57
 
 Threads fairness:
-    events (avg/stddev):           78636.5000/265.50
-    execution time (avg/stddev):   119.9101/0.00
+    events (avg/stddev):           142340.0000/565.00
+    execution time (avg/stddev):   119.8108/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 17--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 18------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -806,8 +823,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -821,28 +838,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      375.48
-    writes/s:                     250.32
-    fsyncs/s:                     800.52
+    reads/s:                      623.98
+    writes/s:                     415.99
+    fsyncs/s:                     1330.70
 
 Throughput:
-    read, MiB/s:                  5.87
-    written, MiB/s:               3.91
+    read, MiB/s:                  9.75
+    written, MiB/s:               6.50
 
 General statistics:
-    total time:                          120.0049s
-    total number of events:              171168
+    total time:                          120.0011s
+    total number of events:              284489
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.40
-         max:                                179.13
-         95th percentile:                      5.18
-         sum:                             239802.17
+         avg:                                  0.84
+         max:                                 65.92
+         95th percentile:                      3.43
+         sum:                             239619.62
 
 Threads fairness:
-    events (avg/stddev):           85584.0000/363.00
-    execution time (avg/stddev):   119.9011/0.00
+    events (avg/stddev):           142244.5000/319.50
+    execution time (avg/stddev):   119.8098/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 18--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 19------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -853,8 +871,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -868,28 +886,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      331.98
-    writes/s:                     221.32
-    fsyncs/s:                     707.58
+    reads/s:                      627.98
+    writes/s:                     418.67
+    fsyncs/s:                     1339.61
 
 Throughput:
-    read, MiB/s:                  5.19
-    written, MiB/s:               3.46
+    read, MiB/s:                  9.81
+    written, MiB/s:               6.54
 
 General statistics:
-    total time:                          120.0039s
-    total number of events:              151315
+    total time:                          120.0004s
+    total number of events:              286357
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.58
-         max:                                103.27
-         95th percentile:                      6.32
-         sum:                             239817.69
+         avg:                                  0.84
+         max:                                523.45
+         95th percentile:                      3.36
+         sum:                             239618.91
 
 Threads fairness:
-    events (avg/stddev):           75657.5000/89.50
-    execution time (avg/stddev):   119.9088/0.00
+    events (avg/stddev):           143178.5000/394.50
+    execution time (avg/stddev):   119.8095/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 19--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 20------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -900,8 +919,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -915,28 +934,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      355.48
-    writes/s:                     237.00
-    fsyncs/s:                     757.38
+    reads/s:                      615.98
+    writes/s:                     410.66
+    fsyncs/s:                     1313.06
 
 Throughput:
-    read, MiB/s:                  5.55
-    written, MiB/s:               3.70
+    read, MiB/s:                  9.62
+    written, MiB/s:               6.42
 
 General statistics:
-    total time:                          120.0020s
-    total number of events:              161989
+    total time:                          120.0010s
+    total number of events:              280771
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.48
-         max:                                119.60
-         95th percentile:                      5.67
-         sum:                             239806.21
+         avg:                                  0.85
+         max:                               1026.83
+         95th percentile:                      3.43
+         sum:                             239628.12
 
 Threads fairness:
-    events (avg/stddev):           80994.5000/156.50
-    execution time (avg/stddev):   119.9031/0.00
+    events (avg/stddev):           140385.5000/351.50
+    execution time (avg/stddev):   119.8141/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 20--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 21------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -947,8 +967,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -962,28 +982,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      360.51
-    writes/s:                     240.33
-    fsyncs/s:                     769.04
+    reads/s:                      618.49
+    writes/s:                     412.32
+    fsyncs/s:                     1318.81
 
 Throughput:
-    read, MiB/s:                  5.63
-    written, MiB/s:               3.76
+    read, MiB/s:                  9.66
+    written, MiB/s:               6.44
 
 General statistics:
-    total time:                          120.0009s
-    total number of events:              164391
+    total time:                          120.0005s
+    total number of events:              281961
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.46
-         max:                                141.85
-         95th percentile:                      5.37
-         sum:                             239799.74
+         avg:                                  0.85
+         max:                                899.94
+         95th percentile:                      3.36
+         sum:                             239632.99
 
 Threads fairness:
-    events (avg/stddev):           82195.5000/478.50
-    execution time (avg/stddev):   119.8999/0.00
+    events (avg/stddev):           140980.5000/208.50
+    execution time (avg/stddev):   119.8165/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 21--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 22------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -994,8 +1015,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1009,28 +1030,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      350.99
-    writes/s:                     233.99
-    fsyncs/s:                     748.02
+    reads/s:                      610.49
+    writes/s:                     406.99
+    fsyncs/s:                     1301.34
 
 Throughput:
-    read, MiB/s:                  5.48
-    written, MiB/s:               3.66
+    read, MiB/s:                  9.54
+    written, MiB/s:               6.36
 
 General statistics:
-    total time:                          120.0022s
-    total number of events:              159965
+    total time:                          120.0009s
+    total number of events:              278264
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.50
-         max:                                 62.52
-         95th percentile:                      5.67
-         sum:                             239808.63
+         avg:                                  0.86
+         max:                                862.62
+         95th percentile:                      3.49
+         sum:                             239633.69
 
 Threads fairness:
-    events (avg/stddev):           79982.5000/176.50
-    execution time (avg/stddev):   119.9043/0.00
+    events (avg/stddev):           139132.0000/12.00
+    execution time (avg/stddev):   119.8168/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 22--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 23------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1041,8 +1063,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1056,28 +1078,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      353.49
-    writes/s:                     235.66
-    fsyncs/s:                     753.69
+    reads/s:                      613.89
+    writes/s:                     409.26
+    fsyncs/s:                     1309.05
 
 Throughput:
-    read, MiB/s:                  5.52
-    written, MiB/s:               3.68
+    read, MiB/s:                  9.59
+    written, MiB/s:               6.39
 
 General statistics:
-    total time:                          120.0004s
-    total number of events:              161145
+    total time:                          120.0191s
+    total number of events:              279914
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.49
-         max:                                128.90
-         95th percentile:                      5.67
-         sum:                             239807.39
+         avg:                                  0.86
+         max:                                 66.32
+         95th percentile:                      3.43
+         sum:                             239675.87
 
 Threads fairness:
-    events (avg/stddev):           80572.5000/30.50
-    execution time (avg/stddev):   119.9037/0.00
+    events (avg/stddev):           139957.0000/245.00
+    execution time (avg/stddev):   119.8379/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 23--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 24------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1088,8 +1111,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1103,28 +1126,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      365.98
-    writes/s:                     243.99
-    fsyncs/s:                     780.60
+    reads/s:                      595.98
+    writes/s:                     397.32
+    fsyncs/s:                     1271.31
 
 Throughput:
-    read, MiB/s:                  5.72
-    written, MiB/s:               3.81
+    read, MiB/s:                  9.31
+    written, MiB/s:               6.21
 
 General statistics:
-    total time:                          120.0026s
-    total number of events:              166876
+    total time:                          120.0012s
+    total number of events:              271761
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.44
-         max:                                122.49
-         95th percentile:                      5.28
-         sum:                             239804.74
+         avg:                                  0.88
+         max:                                972.43
+         95th percentile:                      3.43
+         sum:                             239648.27
 
 Threads fairness:
-    events (avg/stddev):           83438.0000/246.00
-    execution time (avg/stddev):   119.9024/0.00
+    events (avg/stddev):           135880.5000/27.50
+    execution time (avg/stddev):   119.8241/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 24--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 25------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1135,8 +1159,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1150,28 +1174,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      400.75
-    writes/s:                     267.16
-    fsyncs/s:                     854.38
+    reads/s:                      556.16
+    writes/s:                     370.78
+    fsyncs/s:                     1186.11
 
 Throughput:
-    read, MiB/s:                  6.26
-    written, MiB/s:               4.17
+    read, MiB/s:                  8.69
+    written, MiB/s:               5.79
 
 General statistics:
-    total time:                          120.0017s
-    total number of events:              182679
+    total time:                          120.0004s
+    total number of events:              253571
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.31
-         max:                                188.18
-         95th percentile:                      4.57
-         sum:                             239786.41
+         avg:                                  0.95
+         max:                                685.17
+         95th percentile:                      3.82
+         sum:                             239668.47
 
 Threads fairness:
-    events (avg/stddev):           91339.5000/223.50
-    execution time (avg/stddev):   119.8932/0.00
+    events (avg/stddev):           126785.5000/78.50
+    execution time (avg/stddev):   119.8342/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 25--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 26------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1182,8 +1207,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1197,28 +1222,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      324.97
-    writes/s:                     216.64
-    fsyncs/s:                     692.32
+    reads/s:                      466.49
+    writes/s:                     310.99
+    fsyncs/s:                     994.84
 
 Throughput:
-    read, MiB/s:                  5.08
-    written, MiB/s:               3.39
+    read, MiB/s:                  7.29
+    written, MiB/s:               4.86
 
 General statistics:
-    total time:                          120.0106s
-    total number of events:              148087
+    total time:                          120.0016s
+    total number of events:              212685
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.62
-         max:                                103.93
-         95th percentile:                      6.55
-         sum:                             239836.59
+         avg:                                  1.13
+         max:                                170.97
+         95th percentile:                      4.57
+         sum:                             239699.28
 
 Threads fairness:
-    events (avg/stddev):           74043.5000/600.50
-    execution time (avg/stddev):   119.9183/0.00
+    events (avg/stddev):           106342.5000/122.50
+    execution time (avg/stddev):   119.8496/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 26--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 27------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1229,8 +1255,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1244,28 +1270,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      328.99
-    writes/s:                     219.32
-    fsyncs/s:                     701.34
+    reads/s:                      448.98
+    writes/s:                     299.32
+    fsyncs/s:                     957.50
 
 Throughput:
-    read, MiB/s:                  5.14
-    written, MiB/s:               3.43
+    read, MiB/s:                  7.02
+    written, MiB/s:               4.68
 
 General statistics:
-    total time:                          120.0033s
-    total number of events:              149964
+    total time:                          120.0027s
+    total number of events:              204704
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.60
-         max:                                129.83
-         95th percentile:                      6.43
-         sum:                             239819.87
+         avg:                                  1.17
+         max:                                692.04
+         95th percentile:                      4.91
+         sum:                             239728.07
 
 Threads fairness:
-    events (avg/stddev):           74982.0000/34.00
-    execution time (avg/stddev):   119.9099/0.00
+    events (avg/stddev):           102352.0000/81.00
+    execution time (avg/stddev):   119.8640/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 27--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 28------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1276,8 +1303,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1291,28 +1318,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      331.48
-    writes/s:                     220.99
-    fsyncs/s:                     707.02
+    reads/s:                      465.96
+    writes/s:                     310.65
+    fsyncs/s:                     993.53
 
 Throughput:
-    read, MiB/s:                  5.18
-    written, MiB/s:               3.45
+    read, MiB/s:                  7.28
+    written, MiB/s:               4.85
 
 General statistics:
-    total time:                          120.0053s
-    total number of events:              151148
+    total time:                          120.0058s
+    total number of events:              212431
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.59
-         max:                                 70.06
-         95th percentile:                      6.32
-         sum:                             239822.73
+         avg:                                  1.13
+         max:                                178.83
+         95th percentile:                      4.82
+         sum:                             239722.95
 
 Threads fairness:
-    events (avg/stddev):           75574.0000/602.00
-    execution time (avg/stddev):   119.9114/0.00
+    events (avg/stddev):           106215.5000/210.50
+    execution time (avg/stddev):   119.8615/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 28--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 29------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1323,8 +1351,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1338,28 +1366,29 @@ Threads started!
 
 
 File operations:
-    reads/s:                      340.49
-    writes/s:                     226.99
-    fsyncs/s:                     725.77
+    reads/s:                      478.66
+    writes/s:                     319.09
+    fsyncs/s:                     1020.73
 
 Throughput:
-    read, MiB/s:                  5.32
-    written, MiB/s:               3.55
+    read, MiB/s:                  7.48
+    written, MiB/s:               4.99
 
 General statistics:
-    total time:                          120.0003s
-    total number of events:              155195
+    total time:                          120.0062s
+    total number of events:              218233
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.55
-         max:                                171.58
-         95th percentile:                      6.09
-         sum:                             239811.63
+         avg:                                  1.10
+         max:                                 60.87
+         95th percentile:                      4.57
+         sum:                             239706.46
 
 Threads fairness:
-    events (avg/stddev):           77597.5000/173.50
-    execution time (avg/stddev):   119.9058/0.00
+    events (avg/stddev):           109116.5000/436.50
+    execution time (avg/stddev):   119.8532/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 29--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 30------------------------------------------
 sysbench 1.0.11 (using system LuaJIT 2.1.0-beta3)
@@ -1370,8 +1399,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1385,26 +1414,27 @@ Threads started!
 
 
 File operations:
-    reads/s:                      340.99
-    writes/s:                     227.33
-    fsyncs/s:                     726.77
+    reads/s:                      491.35
+    writes/s:                     327.57
+    fsyncs/s:                     1047.98
 
 Throughput:
-    read, MiB/s:                  5.33
-    written, MiB/s:               3.55
+    read, MiB/s:                  7.68
+    written, MiB/s:               5.12
 
 General statistics:
-    total time:                          120.0006s
-    total number of events:              155415
+    total time:                          120.0348s
+    total number of events:              224096
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.54
-         max:                                106.91
-         95th percentile:                      5.99
-         sum:                             239810.67
+         avg:                                  1.07
+         max:                                 71.78
+         95th percentile:                      4.41
+         sum:                             239759.97
 
 Threads fairness:
-    events (avg/stddev):           77707.5000/465.50
-    execution time (avg/stddev):   119.9053/0.00
+    events (avg/stddev):           112048.0000/186.00
+    execution time (avg/stddev):   119.8800/0.00
+
 -------------------------------------FIM DA EXECUÇÃO 30--------------------------------------------
