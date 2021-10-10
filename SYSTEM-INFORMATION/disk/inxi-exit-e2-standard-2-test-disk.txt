@@ -1,15 +1,15 @@
-System:    Host: e2-standard-2 Kernel: 5.4.0-1051-gcp x86_64 bits: 64 Console: tty 0 Distro: Ubuntu 18.04.5 LTS
+System:    Host: e2-standard-2 Kernel: 5.4.0-1053-gcp x86_64 bits: 64 Console: tty 0 Distro: Ubuntu 18.04.6 LTS
 Machine:   Device: kvm Mobo: Google model: Google Compute Engine serial: N/A UEFI: Google v: Google date: 01/01/2011
 CPU:       Single core Intel Xeon (-MT-) cache: 56320 KB
            clock speeds: max: 2199 MHz 1: 2199 MHz 2: 2199 MHz
 Graphics:  Card: Failed to Detect Video Card!
-           Display Server: N/A driver: N/A tty size: 159x47 Advanced Data: N/A out of X
+           Display Server: N/A driver: N/A tty size: 171x53 Advanced Data: N/A out of X
 Network:   Card: Red Hat Virtio network device driver: virtio-pci
-           IF: ens4 state: up speed: -1 duplex: unknown mac: 42:01:0a:96:00:16
-Drives:    HDD Total Size: 64.4GB (3.2% used)
+           IF: ens4 state: up speed: -1 duplex: unknown mac: 42:01:0a:96:00:25
+Drives:    HDD Total Size: 64.4GB (3.3% used)
            ID-1: /dev/sda model: PersistentDisk size: 64.4GB
 Partition: ID-1: / size: 58G used: 2.0G (4%) fs: ext4 dev: /dev/sda1
 RAID:      No RAID devices: /proc/mdstat, md_mod kernel module present
 Sensors:   None detected - is lm-sensors installed and configured?
-Info:      Processes: 122 Uptime: 1:56 Memory: 203.8/7959.0MB Init: systemd runlevel: 5
+Info:      Processes: 122 Uptime: 3:38 Memory: 207.0/7959.0MB Init: systemd runlevel: 5
            Client: Shell (bash) inxi: 2.3.56
