@@ -12,8 +12,8 @@ CPU family:          6
 Model:               79
 Model name:          Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz
 Stepping:            1
-CPU MHz:             2300.080
-BogoMIPS:            4600.14
+CPU MHz:             2300.009
+BogoMIPS:            4600.06
 Hypervisor vendor:   Xen
 Virtualization type: full
 L1d cache:           32K

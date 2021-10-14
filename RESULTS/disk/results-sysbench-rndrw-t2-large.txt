@@ -7,8 +7,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -22,28 +22,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1893.44
-    writes/s:                     1262.31
-    fsyncs/s:                     4039.33
+    reads/s:                      2448.93
+    writes/s:                     1632.62
+    fsyncs/s:                     5223.69
 
 Throughput:
-    read, MiB/s:                  29.59
-    written, MiB/s:               19.72
+    read, MiB/s:                  38.26
+    written, MiB/s:               25.51
 
 General statistics:
-    total time:                          120.0010s
-    total number of events:              863432
+    total time:                          120.0008s
+    total number of events:              1116662
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.28
-         max:                                106.68
-         95th percentile:                      1.14
-         sum:                             238329.24
+         avg:                                  0.21
+         max:                                 68.92
+         95th percentile:                      0.87
+         sum:                             237986.63
 
 Threads fairness:
-    events (avg/stddev):           431716.0000/483.00
-    execution time (avg/stddev):   119.1646/0.00
+    events (avg/stddev):           558331.0000/668.00
+    execution time (avg/stddev):   118.9933/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 1--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 2------------------------------------------
@@ -55,8 +55,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -70,28 +70,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1922.93
-    writes/s:                     1281.96
-    fsyncs/s:                     4101.30
+    reads/s:                      2390.95
+    writes/s:                     1593.96
+    fsyncs/s:                     5100.49
 
 Throughput:
-    read, MiB/s:                  30.05
-    written, MiB/s:               20.03
+    read, MiB/s:                  37.36
+    written, MiB/s:               24.91
 
 General statistics:
-    total time:                          120.0020s
-    total number of events:              876773
+    total time:                          120.0005s
+    total number of events:              1090273
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.27
-         max:                                 31.71
-         95th percentile:                      1.12
-         sum:                             238316.74
+         avg:                                  0.22
+         max:                                 19.52
+         95th percentile:                      0.90
+         sum:                             238009.19
 
 Threads fairness:
-    events (avg/stddev):           438386.5000/757.50
-    execution time (avg/stddev):   119.1584/0.00
+    events (avg/stddev):           545136.5000/1430.50
+    execution time (avg/stddev):   119.0046/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 2--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 3------------------------------------------
@@ -103,8 +103,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -118,28 +118,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1926.72
-    writes/s:                     1284.47
-    fsyncs/s:                     4109.78
+    reads/s:                      2314.44
+    writes/s:                     1542.96
+    fsyncs/s:                     4936.71
 
 Throughput:
-    read, MiB/s:                  30.11
-    written, MiB/s:               20.07
+    read, MiB/s:                  36.16
+    written, MiB/s:               24.11
 
 General statistics:
-    total time:                          120.0005s
-    total number of events:              878536
+    total time:                          120.0008s
+    total number of events:              1055320
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.27
-         max:                                 34.68
-         95th percentile:                      1.10
-         sum:                             238322.26
+         avg:                                  0.23
+         max:                                 35.09
+         95th percentile:                      0.94
+         sum:                             238053.00
 
 Threads fairness:
-    events (avg/stddev):           439268.0000/58.00
-    execution time (avg/stddev):   119.1611/0.00
+    events (avg/stddev):           527660.0000/312.00
+    execution time (avg/stddev):   119.0265/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 3--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 4------------------------------------------
@@ -151,8 +151,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -166,28 +166,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1807.45
-    writes/s:                     1204.97
-    fsyncs/s:                     3855.75
+    reads/s:                      2401.94
+    writes/s:                     1601.29
+    fsyncs/s:                     5123.61
 
 Throughput:
-    read, MiB/s:                  28.24
-    written, MiB/s:               18.83
+    read, MiB/s:                  37.53
+    written, MiB/s:               25.02
 
 General statistics:
-    total time:                          120.0011s
-    total number of events:              824203
+    total time:                          120.0008s
+    total number of events:              1095248
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                122.10
-         95th percentile:                      1.21
-         sum:                             238431.63
+         avg:                                  0.22
+         max:                                 19.55
+         95th percentile:                      0.90
+         sum:                             238002.49
 
 Threads fairness:
-    events (avg/stddev):           412101.5000/1470.50
-    execution time (avg/stddev):   119.2158/0.00
+    events (avg/stddev):           547624.0000/1324.00
+    execution time (avg/stddev):   119.0012/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 4--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 5------------------------------------------
@@ -199,8 +199,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -214,28 +214,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1916.46
-    writes/s:                     1277.64
-    fsyncs/s:                     4087.64
+    reads/s:                      2388.48
+    writes/s:                     1592.31
+    fsyncs/s:                     5095.35
 
 Throughput:
-    read, MiB/s:                  29.94
-    written, MiB/s:               19.96
+    read, MiB/s:                  37.32
+    written, MiB/s:               24.88
 
 General statistics:
     total time:                          120.0005s
-    total number of events:              873828
+    total number of events:              1089162
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.27
-         max:                                 22.52
-         95th percentile:                      1.12
-         sum:                             238330.48
+         avg:                                  0.22
+         max:                                 20.96
+         95th percentile:                      0.92
+         sum:                             238006.44
 
 Threads fairness:
-    events (avg/stddev):           436914.0000/906.00
-    execution time (avg/stddev):   119.1652/0.00
+    events (avg/stddev):           544581.0000/527.00
+    execution time (avg/stddev):   119.0032/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 5--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 6------------------------------------------
@@ -247,8 +247,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -262,28 +262,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1872.95
-    writes/s:                     1248.63
-    fsyncs/s:                     3995.34
+    reads/s:                      2394.44
+    writes/s:                     1596.29
+    fsyncs/s:                     5107.47
 
 Throughput:
-    read, MiB/s:                  29.26
-    written, MiB/s:               19.51
+    read, MiB/s:                  37.41
+    written, MiB/s:               24.94
 
 General statistics:
-    total time:                          120.0013s
-    total number of events:              854054
+    total time:                          120.0008s
+    total number of events:              1091811
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.28
-         max:                                 42.49
-         95th percentile:                      1.16
-         sum:                             238380.58
+         avg:                                  0.22
+         max:                                 20.83
+         95th percentile:                      0.92
+         sum:                             238032.60
 
 Threads fairness:
-    events (avg/stddev):           427027.0000/210.00
-    execution time (avg/stddev):   119.1903/0.00
+    events (avg/stddev):           545905.5000/665.50
+    execution time (avg/stddev):   119.0163/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 6--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 7------------------------------------------
@@ -295,8 +295,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -310,28 +310,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1762.46
-    writes/s:                     1174.97
-    fsyncs/s:                     3759.51
+    reads/s:                      2431.95
+    writes/s:                     1621.30
+    fsyncs/s:                     5187.88
 
 Throughput:
-    read, MiB/s:                  27.54
-    written, MiB/s:               18.36
+    read, MiB/s:                  38.00
+    written, MiB/s:               25.33
 
 General statistics:
-    total time:                          120.0007s
-    total number of events:              803651
+    total time:                          120.0005s
+    total number of events:              1108959
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.30
-         max:                                139.82
-         95th percentile:                      1.25
-         sum:                             238452.98
+         avg:                                  0.21
+         max:                                 23.82
+         95th percentile:                      0.89
+         sum:                             238007.45
 
 Threads fairness:
-    events (avg/stddev):           401825.5000/1085.50
-    execution time (avg/stddev):   119.2265/0.00
+    events (avg/stddev):           554479.5000/1742.50
+    execution time (avg/stddev):   119.0037/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 7--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 8------------------------------------------
@@ -343,8 +343,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -358,28 +358,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1970.52
-    writes/s:                     1313.67
-    fsyncs/s:                     4203.65
+    reads/s:                      2366.75
+    writes/s:                     1577.82
+    fsyncs/s:                     5048.42
 
 Throughput:
-    read, MiB/s:                  30.79
-    written, MiB/s:               20.53
+    read, MiB/s:                  36.98
+    written, MiB/s:               24.65
 
 General statistics:
-    total time:                          120.0004s
-    total number of events:              898559
+    total time:                          120.0005s
+    total number of events:              1079183
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.27
-         max:                                 24.42
-         95th percentile:                      1.08
-         sum:                             238280.26
+         avg:                                  0.22
+         max:                                 16.25
+         95th percentile:                      0.92
+         sum:                             237991.58
 
 Threads fairness:
-    events (avg/stddev):           449279.5000/1060.50
-    execution time (avg/stddev):   119.1401/0.00
+    events (avg/stddev):           539591.5000/977.50
+    execution time (avg/stddev):   118.9958/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 8--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 9------------------------------------------
@@ -391,8 +391,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -406,28 +406,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1831.46
-    writes/s:                     1220.97
-    fsyncs/s:                     3906.61
+    reads/s:                      2388.44
+    writes/s:                     1592.30
+    fsyncs/s:                     5094.38
 
 Throughput:
-    read, MiB/s:                  28.62
-    written, MiB/s:               19.08
+    read, MiB/s:                  37.32
+    written, MiB/s:               24.88
 
 General statistics:
-    total time:                          120.0010s
-    total number of events:              835105
+    total time:                          120.0006s
+    total number of events:              1089040
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                105.08
-         95th percentile:                      1.18
-         sum:                             238388.00
+         avg:                                  0.22
+         max:                                 31.42
+         95th percentile:                      0.90
+         sum:                             238001.85
 
 Threads fairness:
-    events (avg/stddev):           417552.5000/439.50
-    execution time (avg/stddev):   119.1940/0.00
+    events (avg/stddev):           544520.0000/48.00
+    execution time (avg/stddev):   119.0009/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 9--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 10------------------------------------------
@@ -439,8 +439,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -454,28 +454,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1802.32
-    writes/s:                     1201.54
-    fsyncs/s:                     3844.19
+    reads/s:                      2481.94
+    writes/s:                     1654.63
+    fsyncs/s:                     5293.85
 
 Throughput:
-    read, MiB/s:                  28.16
-    written, MiB/s:               18.77
+    read, MiB/s:                  38.78
+    written, MiB/s:               25.85
 
 General statistics:
-    total time:                          120.0004s
-    total number of events:              821783
+    total time:                          120.0008s
+    total number of events:              1131678
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                 42.74
-         95th percentile:                      1.23
-         sum:                             238415.18
+         avg:                                  0.21
+         max:                                 19.47
+         95th percentile:                      0.87
+         sum:                             237973.79
 
 Threads fairness:
-    events (avg/stddev):           410891.5000/753.50
-    execution time (avg/stddev):   119.2076/0.00
+    events (avg/stddev):           565839.0000/193.00
+    execution time (avg/stddev):   118.9869/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 10--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 11------------------------------------------
@@ -487,8 +487,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -502,28 +502,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1844.43
-    writes/s:                     1229.62
-    fsyncs/s:                     3933.76
+    reads/s:                      2499.43
+    writes/s:                     1666.30
+    fsyncs/s:                     5331.25
 
 Throughput:
-    read, MiB/s:                  28.82
-    written, MiB/s:               19.21
+    read, MiB/s:                  39.05
+    written, MiB/s:               26.04
 
 General statistics:
-    total time:                          120.0024s
-    total number of events:              840969
+    total time:                          120.0007s
+    total number of events:              1139665
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.28
-         max:                                126.79
-         95th percentile:                      1.18
-         sum:                             238405.59
+         avg:                                  0.21
+         max:                                 24.89
+         95th percentile:                      0.84
+         sum:                             237930.05
 
 Threads fairness:
-    events (avg/stddev):           420484.5000/608.50
-    execution time (avg/stddev):   119.2028/0.00
+    events (avg/stddev):           569832.5000/160.50
+    execution time (avg/stddev):   118.9650/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 11--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 12------------------------------------------
@@ -535,8 +535,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -550,28 +550,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1724.46
-    writes/s:                     1149.64
-    fsyncs/s:                     3678.82
+    reads/s:                      2401.45
+    writes/s:                     1600.97
+    fsyncs/s:                     5122.83
 
 Throughput:
-    read, MiB/s:                  26.94
-    written, MiB/s:               17.96
+    read, MiB/s:                  37.52
+    written, MiB/s:               25.02
 
 General statistics:
-    total time:                          120.0007s
-    total number of events:              786368
+    total time:                          120.0005s
+    total number of events:              1095053
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.30
-         max:                                121.72
-         95th percentile:                      1.27
-         sum:                             238477.18
+         avg:                                  0.22
+         max:                                 20.98
+         95th percentile:                      0.92
+         sum:                             238001.50
 
 Threads fairness:
-    events (avg/stddev):           393184.0000/337.00
-    execution time (avg/stddev):   119.2386/0.00
+    events (avg/stddev):           547526.5000/395.50
+    execution time (avg/stddev):   119.0007/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 12--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 13------------------------------------------
@@ -583,8 +583,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -598,28 +598,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1914.96
-    writes/s:                     1276.64
-    fsyncs/s:                     4085.23
+    reads/s:                      2396.49
+    writes/s:                     1597.65
+    fsyncs/s:                     5112.43
 
 Throughput:
-    read, MiB/s:                  29.92
-    written, MiB/s:               19.95
+    read, MiB/s:                  37.45
+    written, MiB/s:               24.96
 
 General statistics:
     total time:                          120.0003s
-    total number of events:              873237
+    total number of events:              1092811
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.27
-         max:                                 31.65
-         95th percentile:                      1.14
-         sum:                             238342.56
+         avg:                                  0.22
+         max:                                 28.44
+         95th percentile:                      0.92
+         sum:                             238008.67
 
 Threads fairness:
-    events (avg/stddev):           436618.5000/851.50
-    execution time (avg/stddev):   119.1713/0.00
+    events (avg/stddev):           546405.5000/294.50
+    execution time (avg/stddev):   119.0043/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 13--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 14------------------------------------------
@@ -631,8 +631,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -646,28 +646,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1786.46
-    writes/s:                     1190.97
-    fsyncs/s:                     3810.72
+    reads/s:                      2505.29
+    writes/s:                     1670.19
+    fsyncs/s:                     5343.90
 
 Throughput:
-    read, MiB/s:                  27.91
-    written, MiB/s:               18.61
+    read, MiB/s:                  39.15
+    written, MiB/s:               26.10
 
 General statistics:
-    total time:                          120.0007s
-    total number of events:              814596
+    total time:                          120.0001s
+    total number of events:              1142347
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                 34.36
-         95th percentile:                      1.23
-         sum:                             238410.68
+         avg:                                  0.21
+         max:                                 18.95
+         95th percentile:                      0.84
+         sum:                             237906.71
 
 Threads fairness:
-    events (avg/stddev):           407298.0000/625.00
-    execution time (avg/stddev):   119.2053/0.00
+    events (avg/stddev):           571173.5000/252.50
+    execution time (avg/stddev):   118.9534/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 14--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 15------------------------------------------
@@ -679,8 +679,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -694,28 +694,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1645.46
-    writes/s:                     1096.98
-    fsyncs/s:                     3509.47
+    reads/s:                      2459.44
+    writes/s:                     1639.63
+    fsyncs/s:                     5246.10
 
 Throughput:
-    read, MiB/s:                  25.71
-    written, MiB/s:               17.14
+    read, MiB/s:                  38.43
+    written, MiB/s:               25.62
 
 General statistics:
-    total time:                          120.0008s
-    total number of events:              750246
+    total time:                          120.0005s
+    total number of events:              1121446
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.32
-         max:                                106.62
-         95th percentile:                      1.30
-         sum:                             238545.56
+         avg:                                  0.21
+         max:                                 22.46
+         95th percentile:                      0.87
+         sum:                             237937.13
 
 Threads fairness:
-    events (avg/stddev):           375123.0000/228.00
-    execution time (avg/stddev):   119.2728/0.00
+    events (avg/stddev):           560723.0000/743.00
+    execution time (avg/stddev):   118.9686/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 15--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 16------------------------------------------
@@ -727,8 +727,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -742,28 +742,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1825.98
-    writes/s:                     1217.31
-    fsyncs/s:                     3895.38
+    reads/s:                      2478.94
+    writes/s:                     1652.63
+    fsyncs/s:                     5287.36
 
 Throughput:
-    read, MiB/s:                  28.53
-    written, MiB/s:               19.02
+    read, MiB/s:                  38.73
+    written, MiB/s:               25.82
 
 General statistics:
-    total time:                          120.0005s
-    total number of events:              832658
+    total time:                          120.0002s
+    total number of events:              1130294
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                 31.06
-         95th percentile:                      1.21
-         sum:                             238391.04
+         avg:                                  0.21
+         max:                                 14.62
+         95th percentile:                      0.87
+         sum:                             237927.86
 
 Threads fairness:
-    events (avg/stddev):           416329.0000/777.00
-    execution time (avg/stddev):   119.1955/0.00
+    events (avg/stddev):           565147.0000/1149.00
+    execution time (avg/stddev):   118.9639/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 16--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 17------------------------------------------
@@ -775,8 +775,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -790,28 +790,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1787.45
-    writes/s:                     1191.63
-    fsyncs/s:                     3812.69
+    reads/s:                      239.48
+    writes/s:                     159.65
+    fsyncs/s:                     510.67
 
 Throughput:
-    read, MiB/s:                  27.93
-    written, MiB/s:               18.62
+    read, MiB/s:                  3.74
+    written, MiB/s:               2.49
 
 General statistics:
-    total time:                          120.0013s
-    total number of events:              815036
+    total time:                          120.0099s
+    total number of events:              109186
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                 33.68
-         95th percentile:                      1.25
-         sum:                             238433.80
+         avg:                                  2.20
+         max:                                 55.49
+         95th percentile:                     11.24
+         sum:                             239783.82
 
 Threads fairness:
-    events (avg/stddev):           407518.0000/113.00
-    execution time (avg/stddev):   119.2169/0.00
+    events (avg/stddev):           54593.0000/55.00
+    execution time (avg/stddev):   119.8919/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 17--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 18------------------------------------------
@@ -823,8 +823,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -838,28 +838,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1865.13
-    writes/s:                     1243.41
-    fsyncs/s:                     3978.58
+    reads/s:                      147.48
+    writes/s:                     98.32
+    fsyncs/s:                     314.36
 
 Throughput:
-    read, MiB/s:                  29.14
-    written, MiB/s:               19.43
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.54
 
 General statistics:
-    total time:                          120.0006s
-    total number of events:              850474
+    total time:                          120.0115s
+    total number of events:              67228
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.28
-         max:                                108.14
-         95th percentile:                      1.18
-         sum:                             238359.89
+         avg:                                  3.57
+         max:                                 55.54
+         95th percentile:                     16.41
+         sum:                             239854.81
 
 Threads fairness:
-    events (avg/stddev):           425237.0000/120.00
-    execution time (avg/stddev):   119.1799/0.00
+    events (avg/stddev):           33614.0000/170.00
+    execution time (avg/stddev):   119.9274/0.01
 
 -------------------------------------FIM DA EXECUÇÃO 18--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 19------------------------------------------
@@ -871,8 +871,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -886,28 +886,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1775.86
-    writes/s:                     1183.90
-    fsyncs/s:                     3787.64
+    reads/s:                      147.48
+    writes/s:                     98.32
+    fsyncs/s:                     314.21
 
 Throughput:
-    read, MiB/s:                  27.75
-    written, MiB/s:               18.50
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.54
 
 General statistics:
-    total time:                          120.0009s
-    total number of events:              809707
+    total time:                          120.0111s
+    total number of events:              67209
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                 39.40
-         95th percentile:                      1.25
-         sum:                             238435.16
+         avg:                                  3.57
+         max:                                 50.12
+         95th percentile:                     16.41
+         sum:                             239858.08
 
 Threads fairness:
-    events (avg/stddev):           404853.5000/574.50
-    execution time (avg/stddev):   119.2176/0.00
+    events (avg/stddev):           33604.5000/158.50
+    execution time (avg/stddev):   119.9290/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 19--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 20------------------------------------------
@@ -919,8 +919,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -934,28 +934,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1792.97
-    writes/s:                     1195.31
-    fsyncs/s:                     3824.05
+    reads/s:                      147.47
+    writes/s:                     98.31
+    fsyncs/s:                     313.58
 
 Throughput:
-    read, MiB/s:                  28.02
-    written, MiB/s:               18.68
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.54
 
 General statistics:
-    total time:                          120.0003s
-    total number of events:              817495
+    total time:                          120.0061s
+    total number of events:              67128
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                143.33
-         95th percentile:                      1.23
-         sum:                             238445.40
+         avg:                                  3.57
+         max:                                 62.41
+         95th percentile:                     16.41
+         sum:                             239852.29
 
 Threads fairness:
-    events (avg/stddev):           408747.5000/434.50
-    execution time (avg/stddev):   119.2227/0.00
+    events (avg/stddev):           33564.0000/88.00
+    execution time (avg/stddev):   119.9261/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 20--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 21------------------------------------------
@@ -967,8 +967,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -982,28 +982,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1858.95
-    writes/s:                     1239.30
-    fsyncs/s:                     3965.72
+    reads/s:                      147.49
+    writes/s:                     98.33
+    fsyncs/s:                     313.82
 
 Throughput:
-    read, MiB/s:                  29.05
-    written, MiB/s:               19.36
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.54
 
 General statistics:
-    total time:                          120.0011s
-    total number of events:              847699
+    total time:                          120.0067s
+    total number of events:              67161
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.28
-         max:                                129.90
-         95th percentile:                      1.18
-         sum:                             238365.56
+         avg:                                  3.57
+         max:                                116.79
+         95th percentile:                     16.41
+         sum:                             239855.24
 
 Threads fairness:
-    events (avg/stddev):           423849.5000/250.50
-    execution time (avg/stddev):   119.1828/0.00
+    events (avg/stddev):           33580.5000/233.50
+    execution time (avg/stddev):   119.9276/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 21--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 22------------------------------------------
@@ -1015,8 +1015,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1030,28 +1030,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1818.76
-    writes/s:                     1212.50
-    fsyncs/s:                     3879.38
+    reads/s:                      147.46
+    writes/s:                     98.29
+    fsyncs/s:                     313.58
 
 Throughput:
-    read, MiB/s:                  28.42
-    written, MiB/s:               18.95
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.54
 
 General statistics:
-    total time:                          120.0007s
-    total number of events:              829295
+    total time:                          120.0062s
+    total number of events:              67124
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.29
-         max:                                 34.70
-         95th percentile:                      1.23
-         sum:                             238428.11
+         avg:                                  3.57
+         max:                                 49.74
+         95th percentile:                     16.41
+         sum:                             239851.30
 
 Threads fairness:
-    events (avg/stddev):           414647.5000/1109.50
-    execution time (avg/stddev):   119.2141/0.00
+    events (avg/stddev):           33562.0000/261.00
+    execution time (avg/stddev):   119.9257/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 22--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 23------------------------------------------
@@ -1063,8 +1063,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1078,28 +1078,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1909.27
-    writes/s:                     1272.84
-    fsyncs/s:                     4072.45
+    reads/s:                      146.66
+    writes/s:                     97.76
+    fsyncs/s:                     312.51
 
 Throughput:
-    read, MiB/s:                  29.83
-    written, MiB/s:               19.89
+    read, MiB/s:                  2.29
+    written, MiB/s:               1.53
 
 General statistics:
-    total time:                          120.0005s
-    total number of events:              870565
+    total time:                          120.0063s
+    total number of events:              66836
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.27
-         max:                                 40.24
-         95th percentile:                      1.16
-         sum:                             238344.27
+         avg:                                  3.59
+         max:                                 66.54
+         95th percentile:                     16.41
+         sum:                             239851.26
 
 Threads fairness:
-    events (avg/stddev):           435282.5000/424.50
-    execution time (avg/stddev):   119.1721/0.00
+    events (avg/stddev):           33418.0000/199.00
+    execution time (avg/stddev):   119.9256/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 23--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 24------------------------------------------
@@ -1111,8 +1111,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1126,28 +1126,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      1668.29
-    writes/s:                     1112.19
-    fsyncs/s:                     3558.22
+    reads/s:                      147.38
+    writes/s:                     98.24
+    fsyncs/s:                     313.58
 
 Throughput:
-    read, MiB/s:                  26.07
-    written, MiB/s:               17.38
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.54
 
 General statistics:
-    total time:                          120.0041s
-    total number of events:              760682
+    total time:                          120.0061s
+    total number of events:              67109
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  0.31
-         max:                                 63.11
-         95th percentile:                      1.21
-         sum:                             238544.80
+         avg:                                  3.57
+         max:                                 60.78
+         95th percentile:                     16.41
+         sum:                             239848.78
 
 Threads fairness:
-    events (avg/stddev):           380341.0000/71.00
-    execution time (avg/stddev):   119.2724/0.00
+    events (avg/stddev):           33554.5000/118.50
+    execution time (avg/stddev):   119.9244/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 24--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 25------------------------------------------
@@ -1159,8 +1159,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1174,28 +1174,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      296.52
-    writes/s:                     197.68
-    fsyncs/s:                     632.48
+    reads/s:                      146.98
+    writes/s:                     97.99
+    fsyncs/s:                     313.48
 
 Throughput:
-    read, MiB/s:                  4.63
-    written, MiB/s:               3.09
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.53
 
 General statistics:
-    total time:                          120.0086s
-    total number of events:              135214
+    total time:                          120.0122s
+    total number of events:              67022
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.77
-         max:                                 39.79
-         95th percentile:                      8.13
-         sum:                             239695.89
+         avg:                                  3.58
+         max:                                 94.50
+         95th percentile:                     16.41
+         sum:                             239867.49
 
 Threads fairness:
-    events (avg/stddev):           67607.0000/376.00
-    execution time (avg/stddev):   119.8479/0.00
+    events (avg/stddev):           33511.0000/277.00
+    execution time (avg/stddev):   119.9337/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 25--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 26------------------------------------------
@@ -1207,8 +1207,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1222,28 +1222,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      295.48
-    writes/s:                     196.99
-    fsyncs/s:                     629.34
+    reads/s:                      147.48
+    writes/s:                     98.33
+    fsyncs/s:                     314.07
 
 Throughput:
-    read, MiB/s:                  4.62
-    written, MiB/s:               3.08
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.54
 
 General statistics:
-    total time:                          120.0059s
-    total number of events:              134626
+    total time:                          120.0066s
+    total number of events:              67191
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.78
-         max:                                146.48
-         95th percentile:                      8.13
-         sum:                             239702.23
+         avg:                                  3.57
+         max:                                 71.25
+         95th percentile:                     16.41
+         sum:                             239851.18
 
 Threads fairness:
-    events (avg/stddev):           67313.0000/169.00
-    execution time (avg/stddev):   119.8511/0.00
+    events (avg/stddev):           33595.5000/564.50
+    execution time (avg/stddev):   119.9256/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 26--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 27------------------------------------------
@@ -1255,8 +1255,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1270,28 +1270,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      297.86
-    writes/s:                     198.56
-    fsyncs/s:                     634.63
+    reads/s:                      146.49
+    writes/s:                     97.66
+    fsyncs/s:                     311.60
 
 Throughput:
-    read, MiB/s:                  4.65
-    written, MiB/s:               3.10
+    read, MiB/s:                  2.29
+    written, MiB/s:               1.53
 
 General statistics:
-    total time:                          120.0053s
-    total number of events:              135734
+    total time:                          120.0065s
+    total number of events:              66695
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.77
-         max:                                 44.58
-         95th percentile:                      8.13
-         sum:                             239699.13
+         avg:                                  3.60
+         max:                                 49.84
+         95th percentile:                     16.41
+         sum:                             239851.38
 
 Threads fairness:
-    events (avg/stddev):           67867.0000/363.00
-    execution time (avg/stddev):   119.8496/0.00
+    events (avg/stddev):           33347.5000/396.50
+    execution time (avg/stddev):   119.9257/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 27--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 28------------------------------------------
@@ -1303,8 +1303,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1318,28 +1318,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      295.37
-    writes/s:                     196.91
-    fsyncs/s:                     629.31
+    reads/s:                      146.49
+    writes/s:                     97.66
+    fsyncs/s:                     311.54
 
 Throughput:
-    read, MiB/s:                  4.62
-    written, MiB/s:               3.08
+    read, MiB/s:                  2.29
+    written, MiB/s:               1.53
 
 General statistics:
-    total time:                          120.0030s
-    total number of events:              134596
+    total time:                          120.0061s
+    total number of events:              66687
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.78
-         max:                                 50.11
-         95th percentile:                      8.13
-         sum:                             239696.80
+         avg:                                  3.60
+         max:                                 55.56
+         95th percentile:                     16.41
+         sum:                             239856.80
 
 Threads fairness:
-    events (avg/stddev):           67298.0000/529.00
-    execution time (avg/stddev):   119.8484/0.00
+    events (avg/stddev):           33343.5000/362.50
+    execution time (avg/stddev):   119.9284/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 28--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 29------------------------------------------
@@ -1351,8 +1351,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1366,28 +1366,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      295.49
-    writes/s:                     196.99
-    fsyncs/s:                     630.18
+    reads/s:                      146.97
+    writes/s:                     97.97
+    fsyncs/s:                     312.51
 
 Throughput:
-    read, MiB/s:                  4.62
-    written, MiB/s:               3.08
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.53
 
 General statistics:
-    total time:                          120.0031s
-    total number of events:              134725
+    total time:                          120.0060s
+    total number of events:              66898
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.78
-         max:                                 32.46
-         95th percentile:                      8.13
-         sum:                             239694.85
+         avg:                                  3.59
+         max:                                 50.17
+         95th percentile:                     16.41
+         sum:                             239854.18
 
 Threads fairness:
-    events (avg/stddev):           67362.5000/577.50
-    execution time (avg/stddev):   119.8474/0.00
+    events (avg/stddev):           33449.0000/65.00
+    execution time (avg/stddev):   119.9271/0.00
 
 -------------------------------------FIM DA EXECUÇÃO 29--------------------------------------------
 ------------------------------------ÍNICIO DA EXECUÇÃO 30------------------------------------------
@@ -1399,8 +1399,8 @@ Initializing random number generator from current time
 
 
 Extra file open flags: 0
-128 files, 256MiB each
-32GiB total file size
+128 files, 128MiB each
+16GiB total file size
 Block size 16KiB
 Number of IO requests: 0
 Read/Write ratio for combined random IO test: 1.50
@@ -1414,27 +1414,27 @@ Threads started!
 
 
 File operations:
-    reads/s:                      296.02
-    writes/s:                     197.34
-    fsyncs/s:                     631.44
+    reads/s:                      146.98
+    writes/s:                     97.99
+    fsyncs/s:                     313.15
 
 Throughput:
-    read, MiB/s:                  4.63
-    written, MiB/s:               3.08
+    read, MiB/s:                  2.30
+    written, MiB/s:               1.53
 
 General statistics:
-    total time:                          120.0038s
-    total number of events:              134982
+    total time:                          120.0124s
+    total number of events:              66983
 
 Latency (ms):
          min:                                  0.00
-         avg:                                  1.78
-         max:                                 53.82
-         95th percentile:                      8.13
-         sum:                             239702.60
+         avg:                                  3.58
+         max:                                 44.33
+         95th percentile:                     16.41
+         sum:                             239859.65
 
 Threads fairness:
-    events (avg/stddev):           67491.0000/171.00
-    execution time (avg/stddev):   119.8513/0.00
+    events (avg/stddev):           33491.5000/252.50
+    execution time (avg/stddev):   119.9298/0.01
 
 -------------------------------------FIM DA EXECUÇÃO 30--------------------------------------------
